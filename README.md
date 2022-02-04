@@ -2,7 +2,7 @@
 
 localhost:4000/products
 
-/* GET REQUEST FOR A SINGLE PRODUCT
+* GET REQUEST FOR A SINGLE PRODUCT
 
 localhost:4000/products/61fa980683006510f69b6ac9
 
@@ -19,7 +19,7 @@ localhost:4000/products/61fa980683006510f69b6ac9
 
 
 
-/* POST REQUEST
+* POST REQUEST
 
   localhost:4000/products
 
@@ -31,7 +31,7 @@ localhost:4000/products/61fa980683006510f69b6ac9
     }
         
 
-/* PUT REQUEST FOR A SINGLE PRODUCT
+* PUT REQUEST FOR A SINGLE PRODUCT
 
 localhost:4000/products/61fcdcc787e7ad9ccbc21352
 
