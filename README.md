@@ -46,7 +46,7 @@ localhost:4000/products/61fcdcc787e7ad9ccbc21352
 
 
 
-/*DELETE REQUEST FOR A SINGLE PRODUCT
+*DELETE REQUEST FOR A SINGLE PRODUCT
 
 localhost:4000/products/61fa95ca83006510f69b6aa7
 
