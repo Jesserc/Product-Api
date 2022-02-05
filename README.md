@@ -2,6 +2,10 @@
 
 localhost:4000/products
 
+
+
+
+
 * GET REQUEST FOR A SINGLE PRODUCT
 
 localhost:4000/products/61fa980683006510f69b6ac9
@@ -19,6 +23,8 @@ localhost:4000/products/61fa980683006510f69b6ac9
 
 
 
+
+
 * POST REQUEST
 
   localhost:4000/products
@@ -29,7 +35,10 @@ localhost:4000/products/61fa980683006510f69b6ac9
         "price": "$45",
         "instock": true
     }
-        
+   
+   
+   
+   
 
 * PUT REQUEST FOR A SINGLE PRODUCT
 
@@ -46,7 +55,9 @@ localhost:4000/products/61fcdcc787e7ad9ccbc21352
 
 
 
-*DELETE REQUEST FOR A SINGLE PRODUCT
+
+
+* DELETE REQUEST FOR A SINGLE PRODUCT
 
 localhost:4000/products/61fa95ca83006510f69b6aa7
 
