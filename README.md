@@ -11,6 +11,8 @@ localhost:4000/products
 localhost:4000/products/61fa980683006510f69b6ac9
 
 {
+
+
     "_id": "61fa980683006510f69b6ac9",
     "productName": "Tart Shells - Savory, 4",
     "description": "Other calcification of muscle, unspecified ankle and foot",
@@ -30,6 +32,7 @@ localhost:4000/products/61fa980683006510f69b6ac9
   localhost:4000/products
 
  {
+ 
         "productName": "Jombo bread",
         "description": "Sweet but not yummy",
         "price": "$45",
@@ -62,5 +65,6 @@ localhost:4000/products/61fcdcc787e7ad9ccbc21352
 localhost:4000/products/61fa95ca83006510f69b6aa7
 
 {
+
     "msg": "This  Product does not exist"
 }
